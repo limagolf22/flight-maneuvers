@@ -11,6 +11,13 @@ Connection to the X-Plane simulator is working. Tested with the iOS app on iOS 1
 
 The steep turn maneuver is fully supported.
 
+## Installation process
+
+- make sure you have a valid react-native environment 
+- clone the main repository and open it in a terminal
+- use the command : *npm ci* to install all the packages needed
+- run the app
+
 ## Next steps
 
 - Implement automated network search for the X-Plane server
